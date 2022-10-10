@@ -1,0 +1,37 @@
+.btn-new {
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    font-size: 20px;
+    padding: 5px 25px;
+    border: none;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #003CC5 0%, #0B63F6 51%, #003CC5 100%);
+}
+
+.btn-new:hover {
+     background-position: right center;
+}
+.icon{
+    cursor: pointer;
+    font-size: 20px;
+}
+.bg-image{
+    background-image: url(https://enefti.modeltheme.com/wp-content/uploads/2022/02/Main-slider_pattern.jpg);
+}
+.img{
+    width: 105%;
+}
+header p{
+    color: #a9a9a9;
+}
+.none-border{
+    border: none;
+}
+.pe-0{
+    padding-left: 100px;
+}
+.pe-6{
+    padding-right: 120px;
+}
